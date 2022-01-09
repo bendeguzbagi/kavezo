@@ -20,19 +20,19 @@ onEvent('block.loot_tables', event => {
 //
 //
 	//COAL
-	event.addSimpleBlock('#forge:ores/coal', 'emendatusenigmatica:coal_chunk')
+	//event.addSimpleBlock('#forge:ores/coal', 'emendatusenigmatica:coal_chunk')
 	//IRON
 	event.addSimpleBlock('#forge:ores/iron', 'emendatusenigmatica:iron_chunk')
 	//GOLD
 	event.addSimpleBlock('#forge:ores/gold', 'emendatusenigmatica:gold_chunk')
 	//DIAMOND
-	event.addSimpleBlock('#forge:ores/diamond', 'emendatusenigmatica:diamond_chunk')
+	//event.addSimpleBlock('#forge:ores/diamond', 'emendatusenigmatica:diamond_chunk')
 	//EMERALD
-	event.addSimpleBlock('#forge:ores/emerald', 'emendatusenigmatica:emerald_chunk')
+	//event.addSimpleBlock('#forge:ores/emerald', 'emendatusenigmatica:emerald_chunk')
 	//LAPIS LAZULI
-	event.addSimpleBlock('#forge:ores/lapis', 'emendatusenigmatica:lapis_chunk')
+	//event.addSimpleBlock('#forge:ores/lapis', 'emendatusenigmatica:lapis_chunk')
 	//REDSTONE
-	event.addSimpleBlock('#forge:ores/redstone', 'emendatusenigmatica:redstone_chunk')
+	//event.addSimpleBlock('#forge:ores/redstone', 'emendatusenigmatica:redstone_chunk')
 	//COPPER
 	event.addSimpleBlock('#forge:ores/copper', 'emendatusenigmatica:copper_chunk')
 	//ALUMINUM
