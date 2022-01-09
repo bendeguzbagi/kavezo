@@ -2292,7 +2292,7 @@
 	active = false
 
 ["Stratum Config: minecraft_netherrack"]
-	active = false
+	active = true
 
 ["Stratum Config: minecraft_blackstone"]
 	active = false
