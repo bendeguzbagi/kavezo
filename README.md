@@ -16,11 +16,11 @@ I started this hobby project about 1-2 years ago, but the mods are changed very 
 
 ## Modlist
 
-The modlist can be found here: [Link](MODLIST.md)
+The modlist can be found here: [MODLIST.md](MODLIST.md)
 
 ## Installation
 
 1.  Get [MultiMC](https://multimc.org/#Download).
-2.  Download the latest release from here: [Releases]()
+2.  Download the latest release from here: [Releases](https://github.com/bendeguzbagi/kavezo/releases)
 3.  Open MultiMC.
 4.  Click **Add Instance** and select **Import from zip**.
