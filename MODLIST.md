@@ -19,6 +19,7 @@
 -   [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 -   [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
 -   [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+-   [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
 -   [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 -   [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
 -   [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
