@@ -1,6 +1,6 @@
-#   macOS
+#macOS
 *.DS_Store
 
-#   Files
+#Files
 *.jar
 *.zip
