@@ -25,10 +25,10 @@
 	"Enable Network Profiling" = false
 
 [categories]
-	Automation = true
-	Building = true
+	Automation = false
+	Building = false
 	Management = true
-	Tools = true
+	Tools = false
 	Tweaks = true
 	World = true
 	Mobs = true
@@ -355,7 +355,7 @@
 		"Trowel Max Durability" = 0
 
 [tweaks]
-	"Skull Pikes" = true
+	"Skull Pikes" = false
 	"Armed Armor Stands" = true
 	"Automatic Recipe Unlock" = true
 	"Axe Leaf Harvesting" = true
@@ -364,24 +364,24 @@
 	"Compasses Work Everywhere" = true
 	"Dirt To Path" = true
 	"Double Door Opening" = true
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	Emotes = true
 	"Enhanced Ladders" = true
-	"Glass Shard" = true
+	"Glass Shard" = false
 	"Hoe Harvesting" = true
 	"Improved Sleeping" = true
-	"Infinity Bucket" = true
+	"Infinity Bucket" = false
 	"Lava Bucket As Trash" = true
 	"Lock Rotation" = true
 	"More Banner Layers" = true
-	"Note Block Mob Sounds" = true
+	"Note Block Mob Sounds" = false
 	"Pat The Dogs" = true
 	"Poison Potato Usage" = true
 	"Reacharound Placing" = true
 	"Replace Scaffolding" = true
 	"Sign Editing" = true
 	"Simple Harvest" = true
-	"Snow Golem Player Heads" = true
+	"Snow Golem Player Heads" = false
 	"Springy Slime" = true
 	"Utility Recipes" = true
 	"Villagers Follow Emeralds" = true
@@ -426,8 +426,8 @@
 		"Enable Afk" = true
 		#Allowed values: (0,)
 		"Afk Time" = 2400
-		#Allowed values: (0,1]
-		"Percent Req" = 1.0
+		#Allowed values: (0.1)
+		"Percent Req" = 0.5
 
 	[tweaks.infinity_bucket]
 		Cost = 10
@@ -498,33 +498,33 @@
 		"Bone Meal Utility" = true
 
 [world]
-	"Big Dungeon" = true
-	"Big Stone Clusters" = true
-	Biotite = true
-	"Blossom Trees" = true
-	"Cave Roots" = true
-	"Chorus Vegetation" = true
-	Crevices = true
-	Deepslate = true
-	"Fairy Rings" = true
-	"Mega Caves" = true
+	"Big Dungeon" = false
+	"Big Stone Clusters" = false
+	Biotite = false
+	"Blossom Trees" = false
+	"Cave Roots" = false
+	"Chorus Vegetation" = false
+	Crevices = false
+	Deepslate = false
+	"Fairy Rings" = false
+	"Mega Caves" = false
 	"Monster Box" = true
-	"Nether Obsidian Spikes" = true
-	"New Stone Types" = true
-	"Realistic World Gen" = true
+	"Nether Obsidian Spikes" = false
+	"New Stone Types" = false
+	"Realistic World Gen" = false
 	Speleothems = true
-	"Spiral Spires" = true
-	"Underground Clay" = true
-	"Brimstone Underground Biome" = true
-	"Cave Crystal Underground Biome" = true
-	"Elder Prismarine Underground Biome" = true
-	"Glowshroom Underground Biome" = true
-	"Lush Underground Biome" = true
-	"Overgrown Underground Biome" = true
-	"Permafrost Underground Biome" = true
-	"Sandstone Underground Biome" = true
-	"Slime Underground Biome" = true
-	"Spider Nest Underground Biome" = true
+	"Spiral Spires" = false
+	"Underground Clay" = false
+	"Brimstone Underground Biome" = false
+	"Cave Crystal Underground Biome" = false
+	"Elder Prismarine Underground Biome" = false
+	"Glowshroom Underground Biome" = false
+	"Lush Underground Biome" = false
+	"Overgrown Underground Biome" = false
+	"Permafrost Underground Biome" = false
+	"Sandstone Underground Biome" = false
+	"Slime Underground Biome" = false
+	"Spider Nest Underground Biome" = false
 
 	[world.big_dungeon]
 		#The chance that a big dungeon spawn candidate will be allowed to spawn. 0.2 is 20%, which is the same as the Pillager Outpost.
@@ -1665,12 +1665,12 @@
 
 [mobs]
 	Crabs = true
-	Forgotten = true
+	Forgotten = false
 	Foxhound = true
 	Frogs = true
-	Stonelings = true
-	Toretoise = true
-	Wraith = true
+	Stonelings = false
+	Toretoise = false
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
@@ -1885,7 +1885,7 @@
 	"Auto Walk Keybind" = true
 	"Back Button Keybind" = true
 	"Chest Searching" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Mount Hud" = true
 	"Improved Tooltips" = true
 	"Usage Ticker" = true
@@ -1944,11 +1944,11 @@
 		"Shiny Animal Chance" = 2048
 
 [oddities]
-	Backpack = true
-	Crate = true
-	Magnets = true
-	"Matrix Enchanting" = true
-	Pipes = true
+	Backpack = false
+	Crate = false
+	Magnets = false
+	"Matrix Enchanting" = false
+	Pipes = false
 	"Totem Of Holding" = true
 
 	[oddities.backpack]
